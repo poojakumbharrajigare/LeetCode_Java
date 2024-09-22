@@ -1,5 +1,3 @@
-# LeetCode_Java
+# LeetCode Problems and Solutions in Java
 **Total 80 problems solved till now.** 
 Work in progress. 
-
-LeetCode Problems and Solutions in Java
